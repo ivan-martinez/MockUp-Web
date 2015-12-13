@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUpweb", "MockUpweb\MockUpweb.csproj", "{D3402CE1-C1A1-4E29-9926-C2D175AF6B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockUpweb.Tests", "MockUpweb.Tests\MockUpweb.Tests.csproj", "{BCE31291-95C8-4CC5-8CD4-FC38A377714F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3402CE1-C1A1-4E29-9926-C2D175AF6B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3402CE1-C1A1-4E29-9926-C2D175AF6B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3402CE1-C1A1-4E29-9926-C2D175AF6B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3402CE1-C1A1-4E29-9926-C2D175AF6B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE31291-95C8-4CC5-8CD4-FC38A377714F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE31291-95C8-4CC5-8CD4-FC38A377714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE31291-95C8-4CC5-8CD4-FC38A377714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE31291-95C8-4CC5-8CD4-FC38A377714F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
